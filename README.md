@@ -1,3 +1,3 @@
 Miscellaneous Notebooks for various tasks
 
-- segmentation_photometry 
+- segment_photometry: extract isophotal fluxes in the Sunrise arc field
